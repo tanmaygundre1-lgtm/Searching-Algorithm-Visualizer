@@ -1,0 +1,11 @@
+target/
+*.log
+.classpath
+.project
+.settings/
+.vscode/
+.idea/
+*.iml
+practice.java
+Project Documentation.docx
+README.txt
